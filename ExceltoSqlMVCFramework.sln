@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceltoSqlMVCFramework", "ExceltoSqlMVCFramework.csproj", "{90F8EBFE-F5D0-4552-A8E7-451F389AECB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F8EBFE-F5D0-4552-A8E7-451F389AECB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F8EBFE-F5D0-4552-A8E7-451F389AECB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F8EBFE-F5D0-4552-A8E7-451F389AECB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F8EBFE-F5D0-4552-A8E7-451F389AECB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E08FAA6-FBBC-4E62-A2C5-1877447A6768}
+	EndGlobalSection
+EndGlobal

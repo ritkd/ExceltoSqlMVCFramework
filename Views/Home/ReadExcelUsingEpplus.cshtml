@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "ReadExcelUsingEpplus";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ReadExcelUsingEpplus</h2>
+
+@using(Html.BeginForm("ReadExcel","Home",FormMethod.Post,new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group">
+        <input type="file" id="dataFile" name="upload" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" name="btnupload" value="Upload" class="btn btn-default" />     
+    </div>
+
+}
+
+
